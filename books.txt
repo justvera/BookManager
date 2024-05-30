@@ -1,0 +1,30 @@
+Krzyżacy, Henryk Sienkiewicz, 1900, Powieść historyczna
+Pan Tadeusz, Adam Mickiewicz, 1834, Epika
+Lalka, Bolesław Prus, 1890, Powieść
+Potop, Henryk Sienkiewicz, 1886, Powieść historyczna
+Quo Vadis, Henryk Sienkiewicz, 1896, Powieść historyczna
+Faraon, Bolesław Prus, 1897, Powieść historyczna
+Dziady, Adam Mickiewicz, 1823, Dramat
+Chłopi, Władysław Reymont, 1904, Powieść
+Wesele, Stanisław Wyspiański, 1901, Dramat
+Przedwiośnie, Stefan Żeromski, 1924, Powieść
+Syzyfowe prace, Stefan Żeromski, 1897, Powieść
+Zbrodnia i kara, Fiodor Dostojewski, 1866, Powieść
+Bracia Karamazow, Fiodor Dostojewski, 1880, Powieść
+Mistrz i Małgorzata, Michaił Bułhakow, 1966, Powieść
+Sto lat samotności, Gabriel Garcia Marquez, 1967, Powieść
+Proces, Franz Kafka, 1925, Powieść
+Zamek, Franz Kafka, 1926, Powieść
+Czarodziejska góra, Thomas Mann, 1924, Powieść
+Buszujący w zbożu, J.D. Salinger, 1951, Powieść
+Rok 1984, George Orwell, 1949, Powieść dystopijna
+Folwark zwierzęcy, George Orwell, 1945, Powieść dystopijna
+Władca Pierścieni, J.R.R. Tolkien, 1954, Fantasy
+Hobbit, J.R.R. Tolkien, 1937, Fantasy
+Duma i uprzedzenie, Jane Austen, 1813, Powieść
+Zabić drozda, Harper Lee, 1960, Powieść
+Grona gniewu, John Steinbeck, 1939, Powieść
+Moby Dick, Herman Melville, 1851, Powieść
+Don Kichot, Miguel de Cervantes, 1605, Powieść
+Makbet, William Shakespeare, 1606, Dramat
+Hamlet, William Shakespeare, 1600, Dramat
